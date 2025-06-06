@@ -1,6 +1,6 @@
 # 📂 Git e GitHub - Curso do Básico ao Avançado  
 
-Este repositório foi criado enquanto eu estava aprendendo sobre **Git e GitHub**, explorando desde os conceitos fundamentais até práticas avançadas de versionamento de código. Durante o curso, fiz commits frequentes e testei diversas funcionalidades para aprimorar meu conhecimento na plataforma.  
+Esteee repositório foi criado enquanto eu estava aprendendo sobre **Git e GitHub**, explorando desde os conceitos fundamentais até práticas avançadas de versionamento de código. Durante o curso, fiz commits frequentes e testei diversas funcionalidades para aprimorar meu conhecimento na plataforma.  
 
 ## 📌 O que este repositório contém?  
 
